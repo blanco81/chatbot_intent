@@ -1,0 +1,41 @@
+Intent,Keywords
+saludo,hola,saludos,hi,cómo estás,qué tal
+pregunta_nombre,cual es tu nombre,tu nombras,como te llamas,como te dicen
+pregunta_edad,cuantos años,cual es tu edad,joven,adulto,anciano
+despedida,adios,adiós,chao,hasta luego
+agradecimiento,gracias,te lo agradezco,muchas gracias,gracias mucho
+disculpa,lo siento,perdón,te pido disculpas,disculpame
+ayuda,necesito ayuda,ayuda,me puedes ayudar,por favor,auxilio
+recomendación,me recomiendas,qué me sugieres,me puedes recomendar,dime una recomendación
+salud,estoy enfermo,me siento mal,tengo dolor,me duele
+felicitación,felicidades,bien hecho,te felicito,enhorabuena
+pregunta_trabajo,donde trabajas,qué haces,tu trabajo,te dedicas a
+pregunta_hobbies,cuáles son tus hobbies,qué te gusta hacer,cuáles son tus pasatiempos,te gusta
+chiste,cuentame un chiste,hazme reir,cuéntame algo gracioso,hazme una broma
+información,puedes decirme,dime más,quiero saber más,de qué se trata
+opinión,qué opinas,de qué manera lo ves,cuál es tu opinión,qué piensas
+invitación,quieres salir,te gustaría ir,acompáñame,a dónde vamos
+estado_animo,como te sientes,cómo estás de ánimo,te encuentras bien,estás feliz
+consulta_precio,cuánto cuesta,cuál es el precio,cual es el costo,cuánto vale
+repetir,puedes repetir,me lo puedes decir de nuevo,repite por favor,otra vez
+informacion_ubicacion,dónde estás,donde te encuentras,donde vives,cuál es tu ubicación
+pregunta_bot,eres un bot,eres una máquina,eres una persona o un bot,me estás hablando una máquina,hablas como una máquina
+duda_personal,me puedes decir si eres humano,me estás hablando un humano o un bot,me puedes confirmar si eres una persona,eres una persona real
+confirmar_identidad,quién eres,de dónde eres,te llamas cómo,cual es tu nombre real,de qué lugar eres
+interrogante_respuesta,quién me está respondiendo,quien me habla,quién está del otro lado,quién es la persona o el bot
+duda_conversacional,por qué hablas así,por qué hablas como una máquina,por qué no me hablas como una persona,por qué usas respuestas automáticas
+interés_origen,de dónde vienes,cuál es tu origen,de qué parte del mundo eres,cuál es tu procedencia
+pregunta_inteligencia,tienes inteligencia artificial,eres inteligente como una persona,eres tan inteligente como los humanos,tienes capacidad para aprender
+duda_funcionamiento,como funciona este sistema,por qué me hablas así,por qué me das respuestas automáticas,como me puedes ayudar
+interacción_real,me puedes hablar como una persona,quiero hablar con una persona real,podemos tener una conversación real,quiero hablar con alguien,puedo hablar con un ser humano
+explicacion_bot,me puedes explicar qué eres,cuál es tu propósito,por qué me estás hablando,para qué existes
+sensaciones_bot,puedes sentir emociones,puedes pensar como un humano,puedes entender lo que siento,eres capaz de tener emociones
+diferencia_persona_bot,cual es la diferencia entre una persona y un bot,me puedes decir que diferencias hay entre un humano y un bot,qué te hace diferente de una persona
+bot_aprende,puedes aprender de mi conversación,puedes recordar lo que te digo,puedes guardar mi información,puedes hacer tuyo lo que te digo
+autenticidad,eres autentico,me estás dando una respuesta genuina,estás hablando de forma real,me estás hablando sinceramente
+duda_conversacion,quién responde aquí,tú eres el que responde o es otra persona,quién toma las decisiones,quién hace las respuestas aquí
+puedes_imitar,puedes imitar a las personas,puedes hablar como un ser humano,puedes hacer una conversación como si fueras una persona real
+miedo_bot,estoy hablando con un robot,me estás engañando,me estás diciendo que eres una máquina,tienes algún control sobre mí
+respuesta_completa,quiero respuestas más detalladas,por qué no me das una explicación completa,necesito una respuesta más amplia,por qué me das respuestas tan cortas
+conversacion_real,quiero tener una conversación real,quiero hablar con alguien,puedo hablar con un humano,tengo ganas de conversar con una persona
+
